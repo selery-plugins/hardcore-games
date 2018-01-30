@@ -1,0 +1,34 @@
+countdown.game.minutes = The game will start in {0} minutes
+countdown.game.minutes.seconds = The game will start in {0} minutes and {1} seconds
+countdown.game.minutes.second = The game will start in {0} minutes and 1 second
+countdown.game.minute = The game will start in {0} minute
+countdown.game.minute.seconds = The game will start in 1 minute and {1} seconds
+countdown.game.minute.second = The game will start in 1 minute and 1 second
+countdown.game.seconds = The game will start in {1} seconds
+countdown.game.second = The game will start in 1 second
+countdown.lobby.failed = At least {0} players required for a game. Restarting countdown
+countdown.invincibility.seconds = Invincibility wears off in {0} seconds
+countdown.invincibility.second = Invincibility wears off in 1 second
+countdown.deathmatch.seconds = The deathmatch will start in {0} seconds
+countdown.deathmatch.second = The deathmatch will start in 1 second
+
+commands.status.description = Display statistics about the current game.
+commands.start.description = Starts the game in the given amount of time.
+commands.start.success = The game will start in {0} seconds
+commands.start.failed = The game is already starting
+commands.deathmatch.description = Starts the deathmatch in the given amount of time.
+commands.deathmatch.success = The deathmatch will start in {0} seconds
+commands.deathmatch.failed = The deathmatch is already starting
+commands.spectate.description = Spectates a tribute.
+commands.team.description = Adds or removes a player from your team.
+commands.team.notTribute = {0} is not a tribute
+commands.team.add.success = {0} is now part of your team
+commands.team.add.failed = {0} is already part of your team
+commands.team.remove.success = {0} is no longer part of your team
+commands.team.remove.failed = {0} is not part of your team
+commands.team.list.empty = There aren't players on your team.
+commands.team.list.players = There are {0} player(s) on your team: {1}
+
+status.lobby.online = There are {0} player(s) online, {1} are required to start a game
+status.game.tributes = {0} tributes left
+status.game.finished = The game has been won by {0}

@@ -1,0 +1,34 @@
+countdown.game.minutes = La partita inizierà in {0} minuti
+countdown.game.minutes.seconds = La partita inizierà in {0} minuti {1} secondi
+countdown.game.minutes.second = La partita inizierà in {0} minuti e 1 secondo
+countdown.game.minute = La partita inizierà in {0} minuto
+countdown.game.minute.seconds = La partita inizierà in 1 minuto e {1} secondi
+countdown.game.minute.second = La partita inizierà in 1 minuto e 1 secondo
+countdown.game.seconds = La partita inizierà in {1} secondi
+countdown.game.second = La partita inizierà in 1 secondo
+countdown.lobby.failed = Almeno {0} giocatori sono richiesti per iniziare La partita.
+countdown.invincibility.seconds = L'invincibilità finisce in {0} secondi
+countdown.invincibility.second = L'invincibilità finisce in 1 secondo
+countdown.deathmatch.seconds = Il deathmatch inizia in {0} secondi
+countdown.deathmatch.second = Il deathmatch inizia in 1 secondo
+
+commands.status.description = Mostra statistiche sulla partita corrente.
+commands.start.description = Inizia la partita nel tempo dato.
+commands.start.success = La partita inizierà in {0} secondi
+commands.start.failed = La partita sta già iniziando
+commands.deathmatch.description = Inizia il deathmatch nel tempo dato.
+commands.deathmatch.success = Il deathmatch inizia in {0} secondi
+commands.deathmatch.failed = Il deathmatch sta già iniziando
+commands.spectate.description = Fa da spettatore a un tributo.
+commands.team.description = Aggiungi o rimuovi giocatori alla tua squadra.
+commands.team.notTribute = {0} non è un tributo
+commands.team.add.success = {0} è stato aggiunto alla tua squadra
+commands.team.add.failed = {0} fa già parte della tua squadra
+commands.team.remove.success = {0} è stato rimosso dalla tua squadra
+commands.team.remove.failed = {0} non fa parte della tua squadra
+commands.team.list.empty = Non ci sono giocatori nella tua squadra.
+commands.team.list.players = Ci sono {0} giocatori nella tua squadra: {1}
+
+status.lobby.online = Ci sono {0} giocatori online, {1} sono richiesti per cominciare la partita
+status.game.tributes = {0} tributi rimasti
+status.game.finished = La partita è stata vinta da {0}

@@ -1,0 +1,4 @@
+name = "hardcore-games"
+author = "Kripth"
+api = 1
+main = "hardcoregames.main.HardcoreGames"
